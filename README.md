@@ -1,4 +1,5 @@
 # color-thread-calculator
+developing to  solve a encounted issue in garment industry
 Tool for garment manufacturers to detect colors from customer design images and calculate thread requirements for production
 
 # 🎨🧵 Color Thread Calculator for Garment Industry
