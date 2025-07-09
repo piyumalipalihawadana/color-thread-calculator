@@ -35,5 +35,22 @@ This is a smart, lightweight tool designed for garment manufacturers to:
 ---
 
 ## 📦 Sample Output
+🎯 Detected Dominant Color:
+RGB: [255 215 0]
+HEX: #ffd700
 
+📊 FINAL THREAD ORDER SUMMARY
+Fabric:
+Color: #ffd700
+RGB: [255, 215, 0]
+Thread per boxer: 25.0 meters
+➤ Total thread needed: 250.0 meters
+Elastic:
+Color: #000000
+RGB: [0, 0, 0]
+Thread per boxer: 15.0 meters
+➤ Total thread needed: 150.0 meters
+
+## to be developing features:
+-identify the garment patterns and predict the results
 
